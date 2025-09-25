@@ -1,0 +1,5 @@
+{
+  "name": "Petty Cash Manager",
+  "description": "A financial application to manage and track a company's petty cash, including income, expenses, and categorical summaries.",
+  "requestFramePermissions": []
+}
